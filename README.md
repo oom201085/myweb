@@ -12,6 +12,6 @@
 | Bechelor | RMUTSV |
 
 # Hobby
-## Play games
-## Sing a song & Listen to music
-## Sleep
+### Play games
+### Sing a song & Listen to music
+### Sleep
