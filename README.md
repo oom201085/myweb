@@ -6,7 +6,11 @@
 
 ## Education
 | Level | College |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Primary | AnubanSatunSchool |
+| Secondary | Phimanphitthayasan School |
+| Bechelor | RMUTSV |
 
+## Hobby
+# Play games
+# Sing a song & Listen to music
+# Sleep
