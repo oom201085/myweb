@@ -6,6 +6,7 @@
 
 ## Education
 | Level | College |
+| ----------- | ----------- |
 | Primary | AnubanSatunSchool |
 | Secondary | Phimanphitthayasan School |
 | Bechelor | RMUTSV |
